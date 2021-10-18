@@ -9,7 +9,9 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 
 ![On-Chip Clock Multiplier](https://i.imgur.com/p6963Zc.png)
 
-
+<p align="center">
+  <img width="600" height="200" src="https://i.imgur.com/p6963Zc.png">
+</p>
 
 Processors come in two types - Synchronous and Asynchronous; those that require a clock signal are categorized as synchronouse and those that don't are categorized as asynchronous.
 
