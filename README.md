@@ -7,7 +7,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 
 * On-Chip Clock Multiplier: Amplifies incoming low frequency clock signal into a high freqeuncy clock signal, in order to improve performance. This is especially required by processors that demand high frequency clock signals.
 
-![Block Diagram of On-Chip Clock Multiplier](https://imgur.com/p6963Zc)
+![Block Diagram of On-Chip Clock Multiplier](https://i.imgur.com/p6963Zc.png)
 
 Processors come in two types - Synchronous and Asynchronous; those that require a clock signal are categorized as synchronouse and those that don't are categorized as asynchronous.
 
