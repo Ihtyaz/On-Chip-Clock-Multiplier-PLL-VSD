@@ -11,5 +11,14 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
   <img width="681" height="287" src="https://i.imgur.com/p6963Zc.png">
 </p>
 
-Processors come in two types - Synchronous and Asynchronous; those that require a clock signal are categorized as synchronouse and those that don't are categorized as asynchronous.
+* Processors come in two types - Synchronous and Asynchronous; those that require a clock signal are categorized as synchronouse and those that don't are categorized as asynchronous.
+
+
+* Phase Locked Loop: A circuit construction/block used to implement the concept of Clock Multiplier. It constitutes of the following blocks - Phase Detector, Low-Pass Filter, Voltage Control Oscillator and Frequency Divider (N Counter).
+
+<p align="center">
+  <img width="650" height="270" src="https://i.imgur.com/Ij54oPs.png">
+</p>
+
+
 
