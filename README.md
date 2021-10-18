@@ -14,11 +14,13 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 * Processors come in two types - Synchronous and Asynchronous; those that require a clock signal are categorized as synchronouse and those that don't are categorized as asynchronous.
 
 
-* Phase Locked Loop: A circuit construction/block used to implement the concept of Clock Multiplier. It constitutes of the following blocks - Phase Detector, Low-Pass Filter, Voltage Control Oscillator and Frequency Divider (N Counter).
+* Phase Locked Loop: A circuit construction/block used to implement the concept of Clock Multiplier. It constitutes of the following blocks - Phase Detector, Low-Pass Filter, Voltage Control Oscillator and Frequency Divider (N Counter). Figure below illustrates the architectural design of a typical PLL.
 
 <p align="center">
-  <img width="650" height="270" src="https://i.imgur.com/Ij54oPs.png">
+  <img width="650" height="270" src="https://i.imgur.com/IeBtl4b.png">
 </p>
 
+
+### Theoretical Background
 
 
