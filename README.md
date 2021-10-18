@@ -3,6 +3,6 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 
 ### Introduction 
 
-* * Intellectual Property 
+* Intellectual Property 
 Pre-defined logical cells that are not built from scratch but are rather bought from IP vendors so that they can be used directly on a chip/core. RAM and ROM are few examples of IPs. This helps to reduce design and testing time significantly.
 
