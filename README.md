@@ -80,3 +80,13 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 <p align="center">
     Figure: Schematic Circuit Diagram of a Charge Pump
 </p>
+
+
+#### E. Phase Locked Loop
+<p align="center">
+  <img width="700" height="490" src="https://i.imgur.com/PMVvg73.png">
+</p>
+<p align="center">
+    Figure: Schematic Circuit Diagram of a Charge Pump
+</p>
+
