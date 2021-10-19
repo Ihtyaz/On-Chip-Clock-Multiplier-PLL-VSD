@@ -56,7 +56,8 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 </p>
                                                             
  
- #### B. Charge Pump
+#### B. Charge Pump
+<p align="center">
   <img width="750" height="480" src="https://i.imgur.com/UfzJY7R.png">
 </p>
 <p align="center">
