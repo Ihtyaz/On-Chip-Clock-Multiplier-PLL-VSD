@@ -21,6 +21,4 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 </p>
 
 
-### Theoretical Background
-
-
+* NMOS is generally faster than PMOS because holes have lower mobility as opposed to electrons. Hence, their widths are generally enhanced to overcome delay in transitions. This is where transistor sizing becomes crucial. PMOS width is set to be twice the width of NMOS.
