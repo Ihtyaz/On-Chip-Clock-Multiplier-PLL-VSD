@@ -46,4 +46,5 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 * eSim application is generally employed in order to generate netlist representation of different gates or circuit components. Subsequently, ngspice can be used to simulate the input and output waveforms of the circuit or gate under observation.
 
 * General Design Flow | Chip Design Specifications - Architectural Design - Logic Synthesis - Simulation - Architectural Design - .. (Loop)
-
+          -
+ 
