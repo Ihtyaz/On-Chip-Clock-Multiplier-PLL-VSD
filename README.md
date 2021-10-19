@@ -123,7 +123,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 
 
 
-#### B. Phase Frequency Detector
+#### B. Phase Frequency Detector Layout
 <p align="center">
   <img width="479" height="728" src="https://i.imgur.com/bFQjcLi.png">
 </p>
