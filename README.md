@@ -47,7 +47,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 
 * General Design Flow | Chip Design Specifications - Architectural Design - Logic Synthesis - Simulation - Architectural Design - .. (Optimization Loop)
 
-#### A. Phase Frequency Detector - Distinguishes difference in frequency between two signals
+#### A. Phase Frequency Detector - Evaluates difference in frequency between two signals
 <p align="center">
   <img width="750" height="460" src="https://i.imgur.com/VzhdR0O.png">
 </p>
