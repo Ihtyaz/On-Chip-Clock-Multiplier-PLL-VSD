@@ -52,14 +52,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
   <img width="750" height="460" src="https://i.imgur.com/VzhdR0O.png">
 </p>
 <p align="center">
-    Figure: Gate-Level Circuit Diagram of a Phase Frequency Detector
-</p>
-<p align="center">
-  <img width="750" height="460" src="https://i.imgur.com/5UzduXh.png">
-</p>
-<p align="center">
-    Figure: Simulation of a Phase Frequency Detector
-</p>                                                       
+    Figure: Gate-Level Circuit Diagram of a Phase Frequency Detector                                                
 
  
 #### B. Charge Pump
