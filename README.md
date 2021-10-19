@@ -149,42 +149,16 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 </p>
 
 
-#### B. Phase Frequency Detector
-<p align="center">
-  <img width="479" height="728" src="https://i.imgur.com/bFQjcLi.png">
-</p>
-<p align="center">
-    Figure: Layout Diagram of Phase Detector
-</p>
-
-
-
-<p align="center">
-  <img width="762" height="844" src="https://i.imgur.com/EcUrtnQ.png">
-</p>
-<p align="center">
-    Figure: Modified Netlist of Phase Detector 
-</p>
-
-
-<p align="center">
-  <img width="980" height="915" src="https://i.imgur.com/8MRBgmo.png">
-</p>
-<p align="center">
-    Figure: Generated Netlist of Phase Detector 
-</p>
-
-
 <p align="center">
   <img width="1793" height="808" src="https://i.imgur.com/FzIsumQ.png">
 </p>
 <p align="center">
-    Figure: Simulation Output of Phase Detector
+    Figure: Simulated Output of Phase Detector
 </p>
 
 
 
-#### B. VCO
+#### C. VCO Layout
 <p align="center">
   <img width="1181" height="565" src="https://i.imgur.com/NBDn1rV.png">
 </p>
