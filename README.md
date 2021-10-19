@@ -52,7 +52,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
   <img width="750" height="460" src="https://i.imgur.com/VzhdR0O.png">
 </p>
 <p align="center">
-    Figure: Gate-Level Block Diagram of a Phase Frequency Detector
+    Figure: Gate-Level Circuit Diagram of a Phase Frequency Detector
 </p>
                                                             
  
@@ -61,7 +61,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
   <img width="750" height="480" src="https://i.imgur.com/UfzJY7R.png">
 </p>
 <p align="center">
-    Figure: Schematic Diagram of a Charge Pump
+    Figure: Schematic Circuit Diagram of a Charge Pump
 </p>
 
 
@@ -70,7 +70,14 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
   <img width="780" height="380" src="https://i.imgur.com/vKU1wdR.png">
 </p>
 <p align="center">
-    Figure: Gate-Level Block Diagram of a Charge Pump
+    Figure: Gate-Level Circuit Diagram of a Charge Pump
 </p>
 
 
+#### D. Frequency Divider
+<p align="center">
+  <img width="700" height="490" src="https://i.imgur.com/PMVvg73.png">
+</p>
+<p align="center">
+    Figure: Schematic Circuit Diagram of a Charge Pump
+</p>
