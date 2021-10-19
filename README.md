@@ -52,7 +52,13 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
   <img width="750" height="460" src="https://i.imgur.com/VzhdR0O.png">
 </p>
 <p align="center">
-    Figure: Circuit Block Diagram of a Phase Frequency Detector
+    Figure: Gate-Level Block Diagram of a Phase Frequency Detector
 </p>
                                                             
  
+ #### A. Charge Pump
+  <img width="750" height="460" src="https://i.imgur.com/VzhdR0O.png">
+</p>
+<p align="center">
+    Figure: Gate-Level Block Diagram of a Charge Pump
+</p>
