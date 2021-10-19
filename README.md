@@ -163,7 +163,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
   <img width="762" height="844" src="https://i.imgur.com/EcUrtnQ.png">
 </p>
 <p align="center">
-    Figure: Modified Netlist of Phase Detector - 1
+    Figure: Modified Netlist of Phase Detector 
 </p>
 
 
@@ -171,7 +171,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
   <img width="980" height="915" src="https://i.imgur.com/8MRBgmo.png">
 </p>
 <p align="center">
-    Figure: Generated Netlist of Phase Detector - 2
+    Figure: Generated Netlist of Phase Detector 
 </p>
 
 
@@ -183,3 +183,36 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 </p>
 
 
+
+#### B. VCO
+<p align="center">
+  <img width="1181" height="565" src="https://i.imgur.com/NBDn1rV.png">
+</p>
+<p align="center">
+    Figure: Layout Diagram of VCO
+</p>
+
+
+
+<p align="center">
+  <img width="734" height="883" src="https://i.imgur.com/PNCGXzJ.png">
+</p>
+<p align="center">
+    Figure: Modified Netlist of VCO
+</p>
+
+
+<p align="center">
+  <img width="728" height="870" src="https://i.imgur.com/vzMOgXn.png">
+</p>
+<p align="center">
+    Figure: Generated Netlist of VCO
+
+  
+<p align="center">
+  <img width="1817" height="840" src="https://i.imgur.com/faPQwTb.png">
+</p>
+<p align="center">
+    Figure: Simulated output of VCO
+  
+  
