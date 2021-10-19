@@ -3,7 +3,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 
 
 
-### Introduction 
+### I. Introduction 
 
 * Intellectual Property (IP): Pre-defined logical cells that are not built from scratch but are rather bought from IP vendors so that they can be used directly on a chip/core. RAM and ROM are few examples of IPs. This helps to reduce design and testing time significantly.
 
@@ -25,7 +25,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 
 * Feedback Loop: PLL employs the implementation of a feedback loop, whose operation is similar to that of in control system, in order to ensure desired frequency is attained. A feedback loop is one where the output of a particular circuit block is fed back to the input in order to determine the degree of error and correct it accordingly based on the requirements. A characteristic equation is derived from the transfer function in order to better understand the behavior of the circuit block. In the design of a PLL, it is most preferable to ensure the design of a critically damped system.
 
-### Pre-layout Implementation & Simulation
+### II. Pre-layout Implementation & Simulation
 The PLL has been designed using pre-installed open-source EDA tools provisioned by VSD's custom platform. Process used is 180nm
 
 
