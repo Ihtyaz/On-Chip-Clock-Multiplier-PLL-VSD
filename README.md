@@ -61,5 +61,16 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
   <img width="750" height="480" src="https://i.imgur.com/UfzJY7R.png">
 </p>
 <p align="center">
+    Figure: Schematic Diagram of a Charge Pump
+</p>
+
+
+#### C. Voltage Controller Oscillator
+<p align="center">
+  <img width="780" height="380" src="https://i.imgur.com/vKU1wdR.png">
+</p>
+<p align="center">
     Figure: Gate-Level Block Diagram of a Charge Pump
 </p>
+
+
