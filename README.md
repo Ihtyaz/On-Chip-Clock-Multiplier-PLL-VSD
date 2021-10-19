@@ -47,7 +47,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 
 * General Design Flow | Chip Design Specifications - Architectural Design - Logic Synthesis - Simulation - Architectural Design - .. (Optimization Loop)
 
-#### A. Phase Frequency Detector
+#### A. Phase Frequency Detector - Distinguishes difference in frequency between two signals
 <p align="center">
   <img width="750" height="460" src="https://i.imgur.com/VzhdR0O.png">
 </p>
@@ -55,7 +55,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
     Figure: Gate-Level Circuit Diagram of a Phase Frequency Detector                                                
 
  
-#### B. Charge Pump
+#### B. Charge Pump - Acts as a supply of additional charge
 <p align="center">
   <img width="750" height="480" src="https://i.imgur.com/UfzJY7R.png">
 </p>
@@ -64,7 +64,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 </p>
 
 
-#### C. Voltage Controller Oscillator
+#### C. Voltage Controller Oscillator - Used to control degree of oscillation based on voltage
 <p align="center">
   <img width="780" height="380" src="https://i.imgur.com/vKU1wdR.png">
 </p>
@@ -73,7 +73,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 </p>
 
 
-#### D. Frequency Divider
+#### D. Frequency Divider - Used to enhance or degrade frequency of the output signal
 <p align="center">
   <img width="700" height="490" src="https://i.imgur.com/PMVvg73.png">
 </p>
