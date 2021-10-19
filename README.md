@@ -21,4 +21,5 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 </p>
 
 
-* NMOS is generally faster than PMOS because holes have lower mobility as opposed to electrons. Hence, their widths are generally enhanced to overcome delay in transitions. This is where transistor sizing becomes crucial. PMOS width is set to be twice the width of NMOS.
+* Feedback Loop: PLL employs the implementation of a feedback loop, whose operation is similar to that of in control system, in order to ensure desired frequency is attained. A feedback loop is one where the output of a particular circuit block is fed back to the input in order to determine the degree of error and correct it accordingly based on the requirements. A characteristic equation is derived from the transfer function in order to better understand the behavior of the circuit block. In the design of a PLL, it is most preferable to ensure the design of a critically damped system.
+
