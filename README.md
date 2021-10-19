@@ -45,6 +45,14 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 
 * eSim application is generally employed in order to generate netlist representation of different gates or circuit components. Subsequently, ngspice can be used to simulate the input and output waveforms of the circuit or gate under observation.
 
-* General Design Flow | Chip Design Specifications - Architectural Design - Logic Synthesis - Simulation - Architectural Design - .. (Loop)
-          -
+* General Design Flow | Chip Design Specifications - Architectural Design - Logic Synthesis - Simulation - Architectural Design - .. (Optimization Loop)
+
+#### A. Phase Frequency Detector
+<p align="center">
+  <img width="750" height="460" src="https://i.imgur.com/VzhdR0O.png">
+</p>
+<p align="center">
+    Figure: Circuit Block Diagram of a Phase Frequency Detector
+</p>
+                                                            
  
