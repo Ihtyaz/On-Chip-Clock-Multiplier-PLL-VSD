@@ -43,5 +43,7 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
     Figure: Architectural block diagram of a typical PLL
 </p>
 
-* eSim application is generally employed in order to construct netlist representation of different gates or circuit components. 
+* eSim application is generally employed in order to construct netlist representation of different gates or circuit components. Subsequently, ngspice can be used to simulate the input and output waveforms of the circuit or gate under observation.
+
+
 
