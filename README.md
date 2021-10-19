@@ -90,3 +90,33 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
     Figure: Schematic Circuit Diagram of a Charge Pump
 </p>
 
+
+
+### II. Physical Design & Post-layout
+
+* Standard Flow | Floorplanning - Placement - Routing - Circuit Extraction 
+
+#### A. CMOS Inverter Layout
+<p align="center">
+  <img width="138" height="488" src="https://i.imgur.com/X7ifKLT.png">
+</p>
+<p align="center">
+    Figure: Layout Diagram of an Inverter
+</p>
+
+
+
+<p align="center">
+  <img width="988" height="336" src="https://i.imgur.com/6JEHYu8.png">
+</p>
+<p align="center">
+    Figure: Execution of commands on Magic
+</p>
+
+
+<p align="center">
+  <img width="651" height="517" src="https://i.imgur.com/26gEi4v.png">
+</p>
+<p align="center">
+    Figure: Generated Netlist of Inverter Layout from Magic
+</p>
