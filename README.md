@@ -33,7 +33,8 @@ This particular project is enodorsed and faciliated by VSD, and emphasizes on th
 * Feedback Loop: PLL employs the implementation of a feedback loop, whose operation is similar to that of in control system, in order to ensure desired frequency is attained. A feedback loop is one where the output of a particular circuit block is fed back to the input in order to determine the degree of error and correct it accordingly based on the requirements. A characteristic equation is derived from the transfer function in order to better understand the behavior of the circuit block. In the design of a PLL, it is most preferable to ensure the design of a critically damped system.
 
 ### II. Pre-layout Implementation & Simulation
-The PLL has been designed using pre-installed open-source EDA tools provisioned by VSD's custom platform. Process used is 180nm
+
+* The PLL has been designed using pre-installed open-source EDA tools provisioned by VSD's custom platform. Process used is 180nm
 
 <p align="center">
   <img width="681" height="287" src="https://i.imgur.com/sKSmgNe.png">
@@ -41,3 +42,6 @@ The PLL has been designed using pre-installed open-source EDA tools provisioned 
 <p align="center">
     Figure: Architectural block diagram of a typical PLL
 </p>
+
+* eSim application is generally employed in order to construct netlist representation of different gates or circuit components. 
+
